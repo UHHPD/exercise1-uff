@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ stichprobe.cc -o stichprobe; ./stichprobe"
+run = "g++ stichprobe2.cc -o stichprobe2; ./stichprobe2"
